@@ -1,3 +1,3 @@
-<img src="https://c.tenor.com/djaLJiqAxzIAAAAC/rust-lang-ferris.gifhttps://c.tenor.com/djaLJiqAxzIAAAAC/rust-lang-ferris.gif"></img>
+<img src="./img/rustacean-flat-gesture.png" style="display: block; width: 330px;"></img>
 
 ### Hello there, stranger.
